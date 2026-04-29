@@ -3,3 +3,4 @@ uvicorn
 astunparse
 scikit-learn
 pandas
+python-multipart
